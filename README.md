@@ -1,3 +1,3 @@
-# TimeTableGenerator-WebApp
+# TimeTableGenerator
 
-![](Timetable.jpg)
+![](Timetable3.jpg)
