@@ -4,4 +4,4 @@
 
 This Project is used to decrease the time taken to generate timetable for any institution,workplaces.
 
-![](TimetableView.jpg)
+![](TimeTableView.jpg)
